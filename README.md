@@ -86,6 +86,34 @@ Azkroh is an Islamic app designed to provide Muslims with daily Azkar, supplicat
 **Tech Stack:** Flutter, Dart, SQLite, Shared Preferences, Git  
 
 ---
+## 🛠️ Skills  
+
+<p>
+  <!-- Mobile Development -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
+
+  <!-- State Management -->
+  <img src="https://img.shields.io/badge/GetX-FFC107?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Provider-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bloc-0184CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cubit-00BCD4?style=for-the-badge" />
+
+  <!-- Backend & Databases -->
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+
+  <!-- APIs & Integrations -->
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?logo=google-maps&logoColor=white&style=for-the-badge" />
+
+  <!-- Tools & Others -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+</p>
 
 
 
