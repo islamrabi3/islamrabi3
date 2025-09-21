@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Islam Rabie  
 
 ### 👨‍💻 Senior Flutter Developer | 4+ years experience  
-🚀 Specialized in building **scalable cross-platform mobile apps** with Flutter & Dart.  
-💡 Experienced in **Node.js, Firebase, REST APIs, and IoT integrations**.  
-🎯 Passionate about delivering clean code, optimized performance, and engaging UI/UX.  
+🚀 Senior Flutter Developer with 4+ years of experience building **scalable, high-performance cross-platform mobile applications** using Flutter & Dart.  
+💡 Skilled in designing and integrating **Node.js backends, Firebase services, RESTful APIs, and IoT solutions**, ensuring seamless connectivity and reliable performance.  
+🎯 Passionate about **clean architecture, optimized performance, and crafting intuitive user experiences** that drive business growth and customer satisfaction.   
 
 ---
 
@@ -16,7 +16,13 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GetX-FFC107?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cubit-29B6F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BLoC-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?logo=google-maps&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge" />
 </p>
+
 
 ---
 
@@ -70,7 +76,7 @@ Bedayaat is a nursery management app that connects parents and nurseries. It sup
 
 ---
 
-### 🕌 Azkroh - أزكروه  
+### 🕌 Azkroh - أذكروه  
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.islamsalemco.azkroh)  
 *(iOS Coming Soon)*  
 
