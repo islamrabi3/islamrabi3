@@ -24,18 +24,6 @@
 
 Here are some of the apps I’ve built and published on **Google Play** and the **App Store**:
 
----
-
-### 🚀 ERPNEXI  
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nexiErp.app)  
-*(iOS Coming Soon)*  
-
-**Description:**  
-ERPNEXI is a comprehensive ERP solution built to streamline business operations, improve productivity, and optimize resource management. It provides businesses with powerful tools for tracking tasks, managing workflows, and making data-driven decisions.  
-
-**Tech Stack:** Flutter, Dart, Firebase, RESTful APIs, SQLite, Git, GetX  
-
----
 
 ### 🍔 Belad Al Sham  
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.belad.alsham.app)  
@@ -56,6 +44,18 @@ Belad Al Sham is a modern food delivery app offering a smooth ordering experienc
 Cloud Way Cars is a smart car rental application that allows users to browse, book, and manage car rentals seamlessly. With booking history and driver options, it simplifies the car rental process.  
 
 **Tech Stack:** Flutter, Dart, Firebase, RESTful APIs, Location Services, Git, GetX  
+
+
+---
+
+### 🚀 ERPNEXI  
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nexiErp.app)  
+*(iOS Coming Soon)*  
+
+**Description:**  
+ERPNEXI is a comprehensive ERP solution built to streamline business operations, improve productivity, and optimize resource management. It provides businesses with powerful tools for tracking tasks, managing workflows, and making data-driven decisions.  
+
+**Tech Stack:** Flutter, Dart, Firebase, RESTful APIs, SQLite, Git, GetX  
 
 ---
 
@@ -85,20 +85,12 @@ Azkroh is an Islamic app designed to provide Muslims with daily Azkar, supplicat
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" alt="langs" height="160"/>
-</p>
-
----
-
 ## 🌍 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/islam-rabie-1529a7182/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:YOUR.EMAIL@example.com">
+  <a href="mailto:islamsalemdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
