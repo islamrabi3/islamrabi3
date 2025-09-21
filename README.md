@@ -20,13 +20,52 @@
 
 ---
 
-## 📌 Featured Projects
-- 🚗 **[CloudWay Car Rental](https://github.com/username/cloudway_car_rental)** – A full-featured car rental app with booking & payments.  
-- 🍔 **[Food Delivery App (Multi-client)](https://github.com/username/food_delivery_flutter)** – Reusable delivery system with English & Arabic support.  
-- ⚖️ **[Lawyer System Management](https://github.com/username/lawyer_case_mgmt)** – Case management app with reports & client handling.  
-- 💡 **[IoT Smart Lights Controller](https://github.com/username/flutter_mqtt_iot)** – Control 8 lights via Bluetooth & MQTT.  
-- 🛒 **[Offline POS System](https://github.com/username/offline_pos_flutter)** – Dynamic POS with hardware integration.  
-- 📇 **[Digital Business Card (Tap Clone)](https://github.com/username/flutter_tap_clone)** – Share your profile instantly via NFC & QR.  
+# 📱 Published Apps
+
+Here are some of the apps I’ve built and published on **Google Play** and the **App Store**:
+
+---
+
+### 🚀 ERPNEXI  
+**Platforms:** [Android](https://play.google.com/store/apps/details?id=com.nexiErp.app) | iOS (Coming Soon)  
+**Description:**  
+ERPNEXI is a comprehensive ERP solution built to streamline business operations, improve productivity, and optimize resource management. It provides businesses with powerful tools for tracking tasks, managing workflows, and making data-driven decisions.  
+**Tech Stack:** Flutter, Dart, Firebase, RESTful APIs, SQLite, Git, State Management (GetX)  
+
+---
+
+### 🍔 Belad Al Sham  
+**Platforms:** [Android](https://play.google.com/store/apps/details?id=com.belad.alsham.app) | [iOS](https://apps.apple.com/eg/app/belad-al-sham/id6752439631)  
+**Description:**  
+Belad Al Sham is a modern food delivery app offering a smooth ordering experience with real-time order tracking, location-based services, and secure payment integration.  
+**Tech Stack:** Flutter, Dart, Firebase, RESTful APIs, Shared Preferences, Git, Google Maps, Socket.IO, GetX  
+
+---
+
+### 🚗 Cloud Way Cars  
+**Platforms:** Android (Coming Soon) | [iOS](https://apps.apple.com/eg/app/cloud-way-cars/id6751117416)  
+**Description:**  
+Cloud Way Cars is a smart car rental application that allows users to browse, book, and manage car rentals seamlessly. With booking history and driver options, it simplifies the car rental process.  
+**Tech Stack:** Flutter, Dart, Firebase, RESTful APIs, Location Services, Git, GetX  
+
+---
+
+### 🏫 Bedayaat  
+**Platforms:** [Android](https://play.google.com/store/apps/details?id=com.bedayat.app) | [iOS](https://apps.apple.com/eg/app/bedayat/id6451140940)  
+**Description:**  
+Bedayaat is a nursery management app that connects parents and nurseries. It supports attendance tracking, activity updates, notifications, and communication tools.  
+**Tech Stack:** Flutter, Dart, Firebase, RESTful APIs, Push Notifications, Shared Preferences, Git  
+
+---
+
+### 🕌 Azkroh - أزكروه  
+**Platforms:** [Android](https://play.google.com/store/apps/details?id=com.islamsalemco.azkroh) | iOS (Coming Soon)  
+**Description:**  
+Azkroh is an Islamic app designed to provide Muslims with daily Azkar, supplications, and reminders. It features an intuitive interface for quick access to morning, evening, and prayer Azkar.  
+**Tech Stack:** Flutter, Dart, SQLite, Shared Preferences, Git  
+
+---
+
 
 ---
 
