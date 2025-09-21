@@ -99,6 +99,9 @@ Azkroh is an Islamic app designed to provide Muslims with daily Azkar, supplicat
   <a href="mailto:islamsalemdev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="https://wa.me/201002100015">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
