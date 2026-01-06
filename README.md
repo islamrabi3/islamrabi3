@@ -43,8 +43,9 @@ Belad Al Sham is a modern food delivery app offering a smooth ordering experienc
 ---
 
 ### 🚗 Cloud Way Cars  
-*(Android Coming Soon)*  
+
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/cloud-way-cars/id6751117416)  
+[![Google PLay]([https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/cloud-way-cars/id6751117416](https://play.google.com/store/apps/details?id=com.cloudWay.islam&pli=1))  
 
 **Description:**  
 Cloud Way Cars is a smart car rental application that allows users to browse, book, and manage car rentals seamlessly. With booking history and driver options, it simplifies the car rental process.  
@@ -56,7 +57,8 @@ Cloud Way Cars is a smart car rental application that allows users to browse, bo
 
 ### 🚀 ERPNEXI  
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nexiErp.app)  
-*(iOS Coming Soon)*  
+[![App Store]([https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nexiErp.app](https://apps.apple.com/eg/app/nexfamily/id6752761005))  
+
 
 **Description:**  
 ERPNEXI is a comprehensive ERP solution built to streamline business operations, improve productivity, and optimize resource management. It provides businesses with powerful tools for tracking tasks, managing workflows, and making data-driven decisions.  
@@ -78,7 +80,8 @@ Bedayaat is a nursery management app that connects parents and nurseries. It sup
 
 ### 🕌 Azkroh - أذكروه  
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.islamsalemco.azkroh)  
-*(iOS Coming Soon)*  
+[![App Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.islamsalemco.azkroh)  
+
 
 **Description:**  
 Azkroh is an Islamic app designed to provide Muslims with daily Azkar, supplications, and reminders. It features an intuitive interface for quick access to morning, evening, and prayer Azkar.  
